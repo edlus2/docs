@@ -39,4 +39,5 @@ Lista de domínios disponíveis para registro:
 .webcam
 .boston
 .markets
+.site
 ```
